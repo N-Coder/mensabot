@@ -1,4 +1,4 @@
-Babel==2.6.0
+Babel==2.9.1
 beautifulsoup4==4.7.1
 dateparser==0.7.1
 Flask==1.0.2
